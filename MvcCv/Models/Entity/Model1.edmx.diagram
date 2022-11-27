@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="de64922807d8430d9ea8152e540cd083" Name="Diagram1">
+        <EntityTypeShape EntityType="DvCvModel.TblAdmin" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DvCvModel.TblDeneyimlerim" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DvCvModel.TblEgitimlerim" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DvCvModel.TblHakkimda" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DvCvModel.TblHobilerim" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DvCvModel.TblSertifikalarim" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DvCvModel.TblYeteneklerim" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DvCvModel.Tbliletisim" Width="1.5" PointX="7" PointY="3.75" />
+        <EntityTypeShape EntityType="DvCvModel.TblSosyalMedya" Width="1.5" PointX="5.375" PointY="6.75" />
+      </Diagram>
+      <Diagram DiagramId="7667620c62be44d19547463d694c32d2" Name="Diagram2" />
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
